@@ -1,2 +1,2 @@
 # rep1
-cmd
+test repo for git commands demonstraition
